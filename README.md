@@ -2,11 +2,6 @@
 
 20-21 Southampton coursework
 
-To run the program with the extension, please use the following
-
-command
-java EcsBuildingDefence
-
 
 
 This coursework allows me to demonstrate that I:
