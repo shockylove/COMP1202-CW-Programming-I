@@ -5,11 +5,8 @@
 This coursework allows me to demonstrate that I:
 
 • Understand how to construct simple classes and implement methods.
-
 • Are able to take simple pseudo-code descriptions and construct working Java code from them.
-
 • Can write a working program to perform a complex task.
-
 • Have an understanding of object-oriented programming.
 
 • Can correctly use polymorphism and I/O.
